@@ -2,11 +2,6 @@
 title: Notas para Fundamentos de IA
 draft: false
 ---
- 
-The rest of your content lives here. You can use **Markdown** here :)
-# Colección de notas para Fundamentos de IA
-
-
 ## ¿Qué es la Inteligencia Artificial?
 "La IA es el estudio de los agentes que reciben percepciones del entorno y realizan acciones" - Russel & Norvig
 
