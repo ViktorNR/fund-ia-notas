@@ -47,7 +47,7 @@ Donde:
 ### Heurística MRV
 Por sus siglas en ingles *Minimum Remaining Values* (Valores Mínimos Restantes), esta heurística elige **primero la variable con menos valores posibles restantes en su dominio** (es decir, la variable **más restringida** en ese momento).
 
-**¿Por qué usar MRV**
+**¿Por qué usar MRV?**
 La idea es **detectar pronto los conflictos:**
 Si una variable tiene **muy pocas opciones disponibles**, es más probable que cause un **fallo de consistencia** si no se maneja de inmediato.
 > Elegirla primero permite **fallar rápido y retroceder antes**, en lugar de seguir explorando soluciones inviables más adelante.
