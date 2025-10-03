@@ -1,3 +1,9 @@
+---
+title: Notas para Fundamentos de IA
+draft: false
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 # Colección de notas para Fundamentos de IA
 
 
